@@ -29,16 +29,13 @@ text-shadow: black 2px 2px 2px;
         color: white;
     }
 
-    footer{
-        text-align: end;
-    text-shadow: #314414 
-    
-      }
-
 
 }
 
-
+ footer{
+        text-align: end;
+    text-shadow: #314414 
+      }
 
 
 
